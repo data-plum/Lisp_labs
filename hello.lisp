@@ -8,5 +8,5 @@
 )
 
 (setq c '(  ))
-(setq lst '(a b c e))
+(setq lst '(a b c d e f g h))
 (chanding_list lst c)
